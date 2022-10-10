@@ -1,1 +1,2 @@
-const x = 'Pepe';
+import { bar } from './utils.js';
+bar();
